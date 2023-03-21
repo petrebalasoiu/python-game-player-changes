@@ -43,3 +43,5 @@ elif added_player not in players_on_the_bench:
     print(f'The change cannot be fulfilled because the player {added_player} is not on the bench.')
 else:
     print(f'The limit of changes has been reached.')
+    
+# test
